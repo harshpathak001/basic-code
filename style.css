@@ -1,0 +1,62 @@
+.header {
+  height: 45px;
+  width: 100%;
+  background-color: #b3ffd9;
+  padding-top: 17px;
+  padding-bottom: 17px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+.head-btn {
+  background-color: white;
+  height: 50%;
+  width: 7%;
+  border: 0px;
+  border-radius: 2px 5px 8px 11px;
+}
+
+.head-btn:hover {
+  position:static;
+  background-color: #ff9999;
+  height: 55%;
+  width: 9%;
+  transition-duration: 2s;
+}
+
+#btn1 {
+  position: relative;
+  left: 85%;
+  top: 20%
+}
+
+#btn2 {
+  position: relative;
+  left: 70%;
+    top: 20%
+}
+
+#btn3 {
+  position: relative;
+  right : 12%;
+    top: 20%
+}
+
+#btn4 {
+  position: relative;
+  right : 11%;
+    top: 20%
+}
+
+#btn5 {
+  position: relative;
+  right : 10%;
+    top: 20%
+}
+
+#btn6 {
+  position: relative;
+  right : 9%;
+    top: 20%
+}
